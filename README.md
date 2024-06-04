@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Stubee](https://github.com/0Baris/Stubee)
 
-- 🌱 I’m currently learning **Java,Python**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **bariscem@proton.me**
 
