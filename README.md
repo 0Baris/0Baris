@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0baris&label=Profile%20views&color=0e75b6&style=flat" alt="0baris" /> </p>
 
-- 🔭 I’m currently working on [Stubee](https://github.com/0Baris/Stubee)
-
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working on [sahibinden-scraper]([https://github.com/0Baris/sahibinden-scraper]))
 
 - 📫 How to reach me **bariscem@proton.me**
 
