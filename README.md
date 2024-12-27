@@ -2,7 +2,7 @@
 <h3 align="center">A student from Turkey!</h3>
 
 
-- 🔭 I’m currently working on [sahibinden-scraper]([https://github.com/0Baris/sahibinden-scraper])
+- 🔭 I’m currently learning Django Framework
 
 - 📫 How to reach me **bariscem@proton.me**
 
