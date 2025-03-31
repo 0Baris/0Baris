@@ -2,7 +2,7 @@
 <h3 align="center">A student from Turkey!</h3>
 
 
-- 🔭 I’m currently learning Django Framework
+- 🔭 I’m currently learning Java Spring Boot
 
 - 📫 How to reach me **bariscem@proton.me**
 
