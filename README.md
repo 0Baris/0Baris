@@ -13,13 +13,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Languages</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
@@ -35,13 +31,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Frameworks / Technologies / RDMS</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
@@ -67,13 +59,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Social</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://tr.linkedin.com/in/baris-cem-ant" target="_blank">
