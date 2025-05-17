@@ -1,6 +1,7 @@
 <br clear="both">
 
 <h1 align="center">Hi 👋, I'm Baris, A student from Turkey!</h1>
+<h1 align="center"><a href="https://www.bariscemant.com/">Access the CV on my website! 😎</a></h1>
 
 ###
 
